@@ -21,3 +21,8 @@ text-decoration:none;font-weight:bold; border-left: 5px solid #33ADFF; display:b
 
 .crbl{background-color:green;}
 
+@media handheld or (max-width:1600px){
+#imgsh {display:none}
+}
+
+#comments{color:white;}
